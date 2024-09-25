@@ -1,3 +1,9 @@
+# Important Notice
+Please note that the development of this codebase has been surpassed by [JKaleidolib](https://github.com/druffko/jkaleidolib). As a result, clilib should be regarded as outdated since this code is not receiving any updates.
+
+[JKaleidolib](https://github.com/druffko/jkaleidolib) offers the extended functionality and will be maintained for future java versions,
+
+
 <div align="center">
   <a href="https://github.com/druffko/clilib-legacy">
     <img width="200" height="200" src="https://i.imgur.com/E8JFbdP.png">
