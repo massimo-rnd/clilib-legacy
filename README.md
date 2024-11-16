@@ -1,27 +1,27 @@
 # Important Notice
-Please note that the development of this codebase has been surpassed by [JKaleidolib](https://github.com/druffko/jkaleidolib). As a result, clilib should be regarded as outdated since this code is not receiving any updates.
+Please note that the development of this codebase has been surpassed by [JKaleidolib](https://github.com/massimo-rnd/jkaleidolib). As a result, clilib should be regarded as outdated since this code is not receiving any updates.
 
-[JKaleidolib](https://github.com/druffko/jkaleidolib) offers the extended functionality and will be maintained for future java versions,
+[JKaleidolib](https://github.com/massimo-rnd/jkaleidolib) offers the extended functionality and will be maintained for future java versions,
 
 
 <div align="center">
-  <a href="https://github.com/druffko/clilib-legacy">
+  <a href="https://github.com/massimo-rnd/clilib-legacy">
     <img width="200" height="200" src="https://i.imgur.com/E8JFbdP.png">
   </a>
   <br>
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/clilib-legacy?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/clilib-legacy?include_prereleases)
 
 ![Java Version](https://img.shields.io/badge/java-1.8-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/clilib-legacy)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/clilib-legacy)
 ![Java Version](https://img.shields.io/badge/build-passing-brightgreen)
 ![Java Version](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/clilib-legacy/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/clilib-legacy)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/clilib-legacy)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/clilib-legacy/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/clilib-legacy)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/clilib-legacy)
   
   <h1>clilib-legacy</h1>
   <p>
@@ -60,7 +60,7 @@ clilib-legacy is a java library providing different style additions for command 
 
 ### Download the latest version
 
-To start off, please head to the [releases page](https://github.com/druffko/clilib-legacy/releases) and download a pre-built jar.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/clilib-legacy/releases) and download a pre-built jar.
 
 *If you don't trust me for some reason, feel free to download the latest released source code and build it your self.*
 
@@ -143,7 +143,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/clilib-legacy
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/clilib-legacy
 
 Feel free to reach out if you have any questions or suggestions!
